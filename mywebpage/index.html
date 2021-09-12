@@ -1,0 +1,124 @@
+<!doctype html>
+
+<html>
+
+<!-- зона заголовка html, тег <title> - строка, которую браузер отображает на вкладках над страницами, <meta> и <link> сообщают технические сведения для браузера, например, что файл имеет кодировку Юникод (utf-8) -->
+
+	<head>
+		<title>Мария Сафарова: это кто?</title>
+	 	<!-- Required meta tags -->
+	 	<meta charset="utf-8">
+	 	<meta name="viewport" content="width=device-width, initial-scale=1">
+
+		<meta name="description" content="Личная страница и контакты">
+
+		<!-- Bootstrap Core CSS -->
+		<link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet" media="screen">
+
+	</head>
+	
+<!-- body - главная, содержательная часть страницы. Контент на этой странице делится на меню (nav), "шапку" (header), "подвал" (footer) и все остальное (мы заключили остаток в тег section) -->	
+	<body>
+
+<!-- меню (navigation bar) -->
+
+		<nav id="mainNav" class="navbar navbar-default navbar-fixed-top navbar-custom">
+
+			<div class="container"> 
+				<div class="navbar-header"> 
+					<a href="https://ling.hse.ru/" class="navbar-brand">Школа лингвистики НИУ ВШЭ</a> 
+				</div> 
+				<nav class="collapse navbar-collapse" id="bs-navbar"> 
+					<ul class="nav navbar-nav navbar-right"> 
+						<li> <a href="https://lingvocodes.github.io/HSEinfo/ba-ling-2021/index.html">Страница курса</a> </li> 
+						<li> <a href="https://lingvocodes.github.io/HSEinfo/ba-ling-2021/latin_1.html">Страница группы</a> </li> 
+					</ul>
+				</nav> 
+			</div>
+		</nav>
+
+<!-- начинается шапка. у тега header есть атрибут style, который задает цвет фона и отступы. поменяйте значения атрибутов и посмотрите, как изменится страница -->
+
+		<header style="background-color:#C5E0FC; padding-top:50px; "> 
+			<div class="container"> 
+				<div class="row">
+					<div class="col-md-4">
+						<br><br>
+						<h1 style="color:#0D1D59"><b>Мария Сафарова</b></h1>
+						<hr> <!-- это горизонтальная линия -->
+						<p> <b> общаюсь с HTML строго на "Вы" </b> <br>
+					</div>
+					<div class="col-md-4">
+					<img src="https://sun9-44.userapi.com/impg/NIKpWwCHwtzk54OQVN3BdeuXNuGCTqWRNM-h3w/fiW_pohnE3c.jpg?size=885x1059&quality=96&sign=960e87a797de9f33354aec63f4f4fa63&type=album" style="height:280px; margin:20px 20px 20px 20px; " >
+					</div>
+				<img src="https://sun9-26.userapi.com/impg/agZdUAawnEN9wb3QxY3xPPJoHqrMmYBW1cm1iw/xinETnrD7SA.jpg?size=1209x1005&quality=96&sign=c01f7e1e94fe803ca8854becadd1d819&type=album" style="height:280px; margin:20px 20px 20px 20px">
+				</div>
+			</div>
+		</header>
+
+<!-- часть страницы, которая под шапкой -->
+		<section id="portfolio">
+			<div class="container">
+
+<!-- атрибут col-md-... говорит, что контент будет разделен на несколько столбцов, их ширина соотносится как 3 - 6 - 3 (Bootstrap использует воображаемую сетку из 12 равных по ширине колонок) -->
+				<div class="col-md-3">
+
+<!-- <article> не влияет на оформление, но помогает структурировать контент на осмысленые разделы -->
+					<article>
+						<h3 style="color:#3B4BE3">Место учебы</h2>
+						<p>Фундаментальная и прикладная лингвистика, НИУ ВШЭ, Москва</p>
+					</article>
+					<article>
+						<h3 style="color:#3B4BE3">Родной город</h2>
+						<p>Москва <3</p>
+					</article>
+					<article>
+						<h3 style="color:#3B4BE3">Школа</h2>
+						<p>ОЧУ "Газпром школа"</p>
+						<p>Нет, там из нас не пытались вырастить маленьких нефтяников. <s>Только если совсем чуть-чуть</s></p>
+					</article>
+				</div>
+
+				<div class="col-md-6">
+					<article>
+						<h3 style="color:#445A9C"><b>Что мне удалось наболтать о себе</b></h2><br>
+						<h4 style="color:#7692FF"><b><i>Почему я выбрала ФиКЛ?</b></i></h4>
+						<p> Честно? Я узнала про эту образовательную программу только во втором полугодии 10 класса и заинтересовалась ей совершенно случайным образом, так что красивой истории "Я с детства мечтала изучать лингвистику" у меня нет. За свою жизнь я успела помечтать только о становлении художницей, психологом и программистом. Поняла, что, возможно, у меня есть шансы в лингвистике, когда вдруг осознала свою любовь к языкам и человеческой речи в принципе.</p>
+						<br>
+						<h4 style="color:#7692FF"><b><i>А что я еще люблю?</b></i></h4>
+						<p>Мои хобби можно кратко охарактеризовать как "подростковый стартер пак": люблю музыку, киношки, компьютерные игры, книги и далее по списку. А еще скромно люблю рисовать (но профессионально этому не училась + не так уж часто практикуюсь, так что скилл у меня масюсенький). Кроме этого люблю фотографировать всевозможную красоту и чуть-чуть интересуюсь психологией.</p>
+						<br>
+						<h4 style="color:#7692FF"><b><i>Моя любимая музыка</b></i></h4>
+						<p>Слушаю очень много всего разного, но самые любимые жанры - инди-рок и электроника <3 Из любимых исполнителей могу назвать группы Glass Animals, Franz Ferdinand, Дайте танк (!) и Black Rebel Motorcycle Club.</p>
+						<br>
+						<h4 style="color:#7692FF"><b><i>Моя любимая страница в Википедии</b></i></h4>
+						<p><a href="https://ru.wikipedia.org/wiki/%D0%9A%D0%BE%D1%81%D0%B0%D1%82%D0%BA%D0%B0_(%D0%BC%D0%BB%D0%B5%D0%BA%D0%BE%D0%BF%D0%B8%D1%82%D0%B0%D1%8E%D1%89%D0%B5%D0%B5)"> Косатка (млекопитающее) </a> </p>
+						<br>
+						<h4 style="color:#7692FF"><b><i>Мое любимое предложение с моей любимой страницы в Википедии</b></i></h4>
+						<p><i>"Косатка является вершиной пищевой цепи в морской живой природе, которая практически не имеет соперников."</i> (Круто звучит ведь)</p>
+						<br>
+						<h4 style="color:#7692FF"><b><i>Самая важная информация</b></i></h4>
+						<p>У меня есть домашний котик и у него 1001 ласковое прозвище. Еще он похож на буханочку хлеба. Вы только гляньте какой хороший <br> А еще я люблю лягушечек и жабок.</p>
+						<img src="https://sun9-35.userapi.com/impg/EhORe9Y4fHZoRdkhaXcF5hqp_a7xTJprim-t1A/wicBdfb7mLQ.jpg?size=832x1207&quality=96&sign=5b2e65b94cd62797c2f7ac30531643b9&type=album" style="height:360px; margin: 10px 10px 0px 10px">
+						<img src="https://i.pinimg.com/originals/be/a6/5f/bea65f563cd5993ebf6b52bd4ae9f3d2.jpg" style="height:240px; margin: 10px 10px 120px 10px">
+						<br>
+					</article>
+				</div>
+
+				<div class="col-md-3">
+					<h3 style="color:#3B4BE3">Мои соцсети</h3>
+					<ul>
+						<li><a href="https://vk.com/n1ne_z">vk</li>
+						<li><a href="https://www.instagram.com/n1ne.z/">instagram</li>
+					</ul>
+				</div>
+			</div>
+		</section>
+
+		<footer class="bs-docs-footer"> 
+			<div class="container"> 
+				<p style="text-align:right; ">&copy; М. Сафарова, 2021</p> 
+			</div>
+		</footer>
+	</body>
+</html>
