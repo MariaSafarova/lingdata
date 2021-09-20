@@ -1,0 +1,429 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2021-09-20T22:56:18+03:00"
+    FORMAT="3.0" VERSION="3.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+    <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
+        <MEDIA_DESCRIPTOR
+            MEDIA_URL="file:///C:/Users/User/Desktop/учоба/гитхаб/ufaportrait.mp4"
+            MIME_TYPE="video/mp4" RELATIVE_MEDIA_URL="./ufaportrait.mp4"/>
+        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:1717774c-53a6-4311-994c-d7e2a6ffa358</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">50</PROPERTY>
+    </HEADER>
+    <TIME_ORDER>
+        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="442"/>
+        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="1449"/>
+        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="1535"/>
+        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="1907"/>
+        <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="2542"/>
+        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="12733"/>
+        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="13205"/>
+        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="17314"/>
+        <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="17777"/>
+        <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="18706"/>
+        <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="18866"/>
+        <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="19622"/>
+        <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="19962"/>
+        <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="24133"/>
+        <TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="24960"/>
+        <TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="26044"/>
+        <TIME_SLOT TIME_SLOT_ID="ts17" TIME_VALUE="26605"/>
+        <TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="37022"/>
+        <TIME_SLOT TIME_SLOT_ID="ts19" TIME_VALUE="37387"/>
+        <TIME_SLOT TIME_SLOT_ID="ts20" TIME_VALUE="44849"/>
+        <TIME_SLOT TIME_SLOT_ID="ts21" TIME_VALUE="44962"/>
+        <TIME_SLOT TIME_SLOT_ID="ts22" TIME_VALUE="53274"/>
+        <TIME_SLOT TIME_SLOT_ID="ts23" TIME_VALUE="53899"/>
+        <TIME_SLOT TIME_SLOT_ID="ts24" TIME_VALUE="62262"/>
+        <TIME_SLOT TIME_SLOT_ID="ts25" TIME_VALUE="62644"/>
+        <TIME_SLOT TIME_SLOT_ID="ts26" TIME_VALUE="67844"/>
+        <TIME_SLOT TIME_SLOT_ID="ts27" TIME_VALUE="68599"/>
+        <TIME_SLOT TIME_SLOT_ID="ts28" TIME_VALUE="74137"/>
+        <TIME_SLOT TIME_SLOT_ID="ts29" TIME_VALUE="74162"/>
+        <TIME_SLOT TIME_SLOT_ID="ts30" TIME_VALUE="74874"/>
+        <TIME_SLOT TIME_SLOT_ID="ts31" TIME_VALUE="75012"/>
+        <TIME_SLOT TIME_SLOT_ID="ts32" TIME_VALUE="86962"/>
+        <TIME_SLOT TIME_SLOT_ID="ts33" TIME_VALUE="89627"/>
+        <TIME_SLOT TIME_SLOT_ID="ts34" TIME_VALUE="105787"/>
+        <TIME_SLOT TIME_SLOT_ID="ts35" TIME_VALUE="106459"/>
+        <TIME_SLOT TIME_SLOT_ID="ts36" TIME_VALUE="111179"/>
+        <TIME_SLOT TIME_SLOT_ID="ts37" TIME_VALUE="111919"/>
+        <TIME_SLOT TIME_SLOT_ID="ts38" TIME_VALUE="127366"/>
+        <TIME_SLOT TIME_SLOT_ID="ts39" TIME_VALUE="127916"/>
+        <TIME_SLOT TIME_SLOT_ID="ts40" TIME_VALUE="151733"/>
+        <TIME_SLOT TIME_SLOT_ID="ts41" TIME_VALUE="151912"/>
+        <TIME_SLOT TIME_SLOT_ID="ts42" TIME_VALUE="163294"/>
+        <TIME_SLOT TIME_SLOT_ID="ts43" TIME_VALUE="163769"/>
+        <TIME_SLOT TIME_SLOT_ID="ts44" TIME_VALUE="172422"/>
+        <TIME_SLOT TIME_SLOT_ID="ts45" TIME_VALUE="173054"/>
+        <TIME_SLOT TIME_SLOT_ID="ts46" TIME_VALUE="183913"/>
+        <TIME_SLOT TIME_SLOT_ID="ts47" TIME_VALUE="184323"/>
+        <TIME_SLOT TIME_SLOT_ID="ts48" TIME_VALUE="195056"/>
+    </TIME_ORDER>
+    <TIER ANNOTATOR="MariaSafarova" DEFAULT_LOCALE="ru"
+        LINGUISTIC_TYPE_REF="utterance" PARTICIPANT="@ipg1962m" TIER_ID="text@igp1962m">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1"
+                TIME_SLOT_REF1="ts2" TIME_SLOT_REF2="ts4">
+                <ANNOTATION_VALUE>здравствуйте //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a2"
+                TIME_SLOT_REF1="ts8" TIME_SLOT_REF2="ts9">
+                <ANNOTATION_VALUE>угу //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3"
+                TIME_SLOT_REF1="ts10" TIME_SLOT_REF2="ts13">
+                <ANNOTATION_VALUE>нашей республики тоже //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4"
+                TIME_SLOT_REF1="ts16" TIME_SLOT_REF2="ts18">
+                <ANNOTATION_VALUE>ну / я думаю большей частью они связаны / со спецификой моей работы потому что / я работаю в научно-исследовательском институте и / сфера моих интересов это язык / культура / традиции //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a12"
+                TIME_SLOT_REF1="ts19" TIME_SLOT_REF2="ts20">
+                <ANNOTATION_VALUE>чувашей проживающих здесь / у нас в республике поэтому / эээ / в меру своих возможностей / конечно мы //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a13"
+                TIME_SLOT_REF1="ts21" TIME_SLOT_REF2="ts22">
+                <ANNOTATION_VALUE> работ.. я работаю над этими темами пишу / как / все научные сотрудники статьи / книги и поэтому видимо //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a14"
+                TIME_SLOT_REF1="ts23" TIME_SLOT_REF2="ts24">
+                <ANNOTATION_VALUE>ааа / н... наши / на... национально-культурные объединения / чтобы меня как-то / поддержать морально чтобы я работал еще активнее //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a15"
+                TIME_SLOT_REF1="ts25" TIME_SLOT_REF2="ts26">
+                <ANNOTATION_VALUE>видимо с... стараются вот / п... подобными поощрениями грамотами меня поддержать //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a16"
+                TIME_SLOT_REF1="ts27" TIME_SLOT_REF2="ts28">
+                <ANNOTATION_VALUE>ну / как говорится это приятно ну и вдохновляет на / дальнейшую / более активную работу //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a17"
+                TIME_SLOT_REF1="ts33" TIME_SLOT_REF2="ts34">
+                <ANNOTATION_VALUE>ну а / как вы знаете э / наш музей / он / э / называется музей археологии и этнографии и естественно / основная наша задача это комплектация / комплектование фондов по самым разным народам //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a18"
+                TIME_SLOT_REF1="ts35" TIME_SLOT_REF2="ts36">
+                <ANNOTATION_VALUE>и конечно / мне как специалисту который занимается вот / чувашской тематикой //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a19"
+                TIME_SLOT_REF1="ts37" TIME_SLOT_REF2="ts38">
+                <ANNOTATION_VALUE>э / когда я еще поступал сюда на работу / когда еще в сектор народов Южного Урала / было поручено / заниматься не только научно-исследовательскими / проблемами но и / в меру своих возможностей / собирать коллекции по / Чувашии нашей республике //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a20"
+                TIME_SLOT_REF1="ts39" TIME_SLOT_REF2="ts40">
+                <ANNOTATION_VALUE>слава богу это / Раиль Гумеровичем Гузеевым а / очень а / поддерживалось и / каждый год / летом он старался чтобы / мы выезжали / полноценной экспедицией / чтобы мы собирали и материал / для своих диссертаций для своих статей книг но и параллельно собирали коллекции / и эту работу конечно мы выполняли / в меру своих возможностей // </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a21"
+                TIME_SLOT_REF1="ts41" TIME_SLOT_REF2="ts42">
+                <ANNOTATION_VALUE>к сожалению / в последнее время / экспедиции мы проводим не так / активно как / было / скажем / в восьмидесятые девяностые годы но / в меру возможностей как бы / такие краткосрочные поездки совершаем // </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a24"
+                TIME_SLOT_REF1="ts43" TIME_SLOT_REF2="ts44">
+                <ANNOTATION_VALUE>ну и / действительно / а / до меня конечно тоже / с / моими старшими коллегами / Бикбулатовым Шитовой //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a28"
+                TIME_SLOT_REF1="ts45" TIME_SLOT_REF2="ts46">
+                <ANNOTATION_VALUE>а / Мурзабулатовым / Долотказиной такие коллекции собирались / но их было не очень много но / когда я уже приступил к этой работе я / уже более целенаправленно этим занимался //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a29"
+                TIME_SLOT_REF1="ts47" TIME_SLOT_REF2="ts48">
+                <ANNOTATION_VALUE>и на / сегодняшний момент / сейчас можно сказать что / в нашем музее около двухсот предметов / связанных с чувашской культурой / и более того //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="MariaSafarova" DEFAULT_LOCALE="ru"
+        LINGUISTIC_TYPE_REF="utterance" PARTICIPANT="@a0f" TIER_ID="text@a0f">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a5"
+                TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts3">
+                <ANNOTATION_VALUE>здравствуйте Игорь Георгиевич //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a6"
+                TIME_SLOT_REF1="ts5" TIME_SLOT_REF2="ts6">
+                <ANNOTATION_VALUE>ааам / среди ваших заслуг / Игорь Георгиевич / э нам интересны очень почетные ваши грамоты которые вы получили по националь.. / от национально-культурных / ээ центров //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a8"
+                TIME_SLOT_REF1="ts7" TIME_SLOT_REF2="ts11">
+                <ANNOTATION_VALUE>ээ Чувашии / ээ России / ээ Чувашской республики / ну и так далее / много в общем / мы посмотрели //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a10"
+                TIME_SLOT_REF1="ts12" TIME_SLOT_REF2="ts14">
+                <ANNOTATION_VALUE>да / аа / и / вот / с какой вашей деятельностью они связаны? //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a11"
+                TIME_SLOT_REF1="ts15" TIME_SLOT_REF2="ts17">
+                <ANNOTATION_VALUE>расскажите пожалуйста об этом //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a22"
+                TIME_SLOT_REF1="ts29" TIME_SLOT_REF2="ts30">
+                <ANNOTATION_VALUE>здорово //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a23"
+                TIME_SLOT_REF1="ts31" TIME_SLOT_REF2="ts32">
+                <ANNOTATION_VALUE>а еще вот какое место а / занимает в этнографических а / скажем фондах в музее археологии и этнографии / мы же находимся а / здесь неподалеку скажем да / чувашская именно коллекция? //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="MariaSafarova" DEFAULT_LOCALE="en"
+        LINGUISTIC_TYPE_REF="translation" PARENT_REF="text@igp1962m"
+        PARTICIPANT="@igp1962m" TIER_ID="transl@igp1962m">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a25" ANNOTATION_REF="a1">
+                <ANNOTATION_VALUE>Hello.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a32" ANNOTATION_REF="a2">
+                <ANNOTATION_VALUE>Uh-huh.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a33" ANNOTATION_REF="a3">
+                <ANNOTATION_VALUE>From our republic's centre as well.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a36" ANNOTATION_REF="a4">
+                <ANNOTATION_VALUE>Well, as I see it, for the most part they are connected to the specific nature of my work, since I work at a research institute. My sphere of interest includes language, culture, traditions</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a37" ANNOTATION_REF="a12">
+                <ANNOTATION_VALUE>of the Chuvashians living here, in our Republic. That's why we, within our capacities,</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a38" ANNOTATION_REF="a13">
+                <ANNOTATION_VALUE>work... I work on these subjects. I write, like other researchers, articles, books. That's why, apparently,</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a39" ANNOTATION_REF="a14">
+                <ANNOTATION_VALUE>our national cultural associations, in order to support me emotionally, to motivate me to work even more,</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a40" ANNOTATION_REF="a15">
+                <ANNOTATION_VALUE>are trying to support me by encouraging and rewarding me with such certificates.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a41" ANNOTATION_REF="a16">
+                <ANNOTATION_VALUE>Well, so to speak, it is nice, and it inspires me to keep working more actively.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a42" ANNOTATION_REF="a17">
+                <ANNOTATION_VALUE>Well, as you know, our museum is called the Museum of Archeology and Ethnography and, naturally, our main goal is to assemble foundations on various ethnicities.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a43" ANNOTATION_REF="a18">
+                <ANNOTATION_VALUE>And, of course, I, as a specialist who works on the Chuvashian subject...</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a44" ANNOTATION_REF="a19">
+                <ANNOTATION_VALUE>When I only entered the position, when it was assigned to the South Ural sector to not only work on scientific-research issues, but also, within its capacities, to assemble collections of our Republic, Chuvashia.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a45" ANNOTATION_REF="a20">
+                <ANNOTATION_VALUE>Thankfully, it was very supported by Rail Gumerovitch Guzeev, and every year, in the summer, he tried to make it possible for us to travel in a fully-fledged expedition, so we could gather information for our dissertations, articles, books and, at the same time, assemble collections. We, of course, did our job witihin our capacities.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a46" ANNOTATION_REF="a21">
+                <ANNOTATION_VALUE>Unfortunately, lately, we arrange expeditions not so actively as it was, shall we say, in eighties, nineties, but, within our capacities, we try to conduct short-term missions.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a47" ANNOTATION_REF="a24">
+                <ANNOTATION_VALUE>Well, indeed, before me, along with my senior colleagues, Bikbulatov, Shitova,</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a30" ANNOTATION_REF="a28">
+                <ANNOTATION_VALUE>Murzabulatov, Dolotkazina, such collections were assembled, but there were not many of them. However, when I entered my position, I worked on that subject more deliberately.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a48" ANNOTATION_REF="a29">
+                <ANNOTATION_VALUE>And, at the moment, now it can be said that our museum holds about two hundred objects, which are connected to Chuvashian culture. Moreover,</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="MariaSafarova" DEFAULT_LOCALE="en"
+        LINGUISTIC_TYPE_REF="translation" PARENT_REF="text@a0f"
+        PARTICIPANT="@a0f" TIER_ID="transl@a0f">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a26" ANNOTATION_REF="a5">
+                <ANNOTATION_VALUE>Hello, Igor Georgievitch.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a27" ANNOTATION_REF="a6">
+                <ANNOTATION_VALUE>Among your accomplishments, Igor Georgievitch, we are very interested in your certificates of merit, which you have gotten from national cultural centres.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a31" ANNOTATION_REF="a8">
+                <ANNOTATION_VALUE>From centres of Chuvashia, Russia, Chuvash Republic and so on. There's a lot of them, as we have seen.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a34" ANNOTATION_REF="a10">
+                <ANNOTATION_VALUE>Yeah. And, well, which of your activities are they associated with?</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a35" ANNOTATION_REF="a11">
+                <ANNOTATION_VALUE>Please, tell us about it.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a49" ANNOTATION_REF="a22">
+                <ANNOTATION_VALUE>That's great.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a50" ANNOTATION_REF="a23">
+                <ANNOTATION_VALUE>Also, what place does the Chuvashian collection take in ethnographic, shall we say, foundations, at the Museum of Archeology and Ethnography? After all, we are not far away from it.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="default-lt" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="utterance" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Time_Subdivision"
+        GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="words" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association"
+        GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="phonetic_transcription" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="gestures" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Time_Subdivision"
+        CONTROLLED_VOCABULARY_REF="Gesture phases"
+        GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="gesture_phases" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association"
+        GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="gesture_meaning" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association"
+        CONTROLLED_VOCABULARY_REF="POS" GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="part of speech" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association"
+        GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="translation" TIME_ALIGNABLE="false"/>
+    <LOCALE COUNTRY_CODE="RU" LANGUAGE_CODE="ru"/>
+    <LOCALE LANGUAGE_CODE="en" VARIANT="ASCII"/>
+    <LANGUAGE LANG_DEF="http://cdb.iso.org/lg/CDB-00130975-001"
+        LANG_ID="und" LANG_LABEL="undetermined (und)"/>
+    <CONSTRAINT
+        DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision"/>
+    <CONSTRAINT
+        DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association"/>
+    <CONSTRAINT
+        DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In"/>
+    <CONTROLLED_VOCABULARY CV_ID="POS">
+        <DESCRIPTION LANG_REF="und">Part of Speech</DESCRIPTION>
+        <CV_ENTRY_ML CVE_ID="cveid_847c0e87-69c4-44a5-a7cd-cd77b4db9a89">
+            <CVE_VALUE DESCRIPTION="noun" LANG_REF="und">n</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_14cf8cdf-bc9e-4396-afd6-f6155a8e8642">
+            <CVE_VALUE DESCRIPTION="verb" LANG_REF="und">v</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_91dd8ee6-43c1-4328-91d3-eac6467f2afe">
+            <CVE_VALUE DESCRIPTION="interjection" LANG_REF="und">int</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_84469dcc-315d-4a54-aa02-1a8beb39646a">
+            <CVE_VALUE DESCRIPTION="adjective" LANG_REF="und">adj</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_8f5699db-0a7c-44b9-9066-5191d7002613">
+            <CVE_VALUE DESCRIPTION="pronoun" LANG_REF="und">pro</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_4eafa77e-1c9d-4496-b20c-97f968a6b39c">
+            <CVE_VALUE DESCRIPTION="determiner" LANG_REF="und">det</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_e7a82709-dd55-4200-8a5e-e4efff27d063">
+            <CVE_VALUE DESCRIPTION="article" LANG_REF="und">art</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_63093f6e-fa5f-4927-b097-c9497b57541c">
+            <CVE_VALUE DESCRIPTION="preposition" LANG_REF="und">prep</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_92c2848c-c571-44ea-a76f-d650557897ec">
+            <CVE_VALUE DESCRIPTION="adverb" LANG_REF="und">adv</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_46d75bd8-f515-43e4-84a1-37c7ce105410">
+            <CVE_VALUE DESCRIPTION="conj" LANG_REF="und">con</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_8d9f0311-b4f3-44de-b136-ce87b889516c">
+            <CVE_VALUE DESCRIPTION="demonstrative pronoun" LANG_REF="und">dem</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_d87a7b08-2b4c-47fa-a668-d5da75f50685">
+            <CVE_VALUE DESCRIPTION="post" LANG_REF="und">post</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_01606df3-9fe7-474b-ab5f-38b0128c52f3">
+            <CVE_VALUE DESCRIPTION="particle" LANG_REF="und">part</CVE_VALUE>
+        </CV_ENTRY_ML>
+    </CONTROLLED_VOCABULARY>
+    <CONTROLLED_VOCABULARY CV_ID="Gesture phases">
+        <DESCRIPTION LANG_REF="und">Gesture phases</DESCRIPTION>
+        <CV_ENTRY_ML CVE_ID="cveid_ecbb2162-f56d-474b-af28-a67ee3276008">
+            <CVE_VALUE DESCRIPTION="preparation" LANG_REF="und">preparation</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_09466037-05b8-46c0-aa94-75c71fd0d069">
+            <CVE_VALUE DESCRIPTION="stroke" LANG_REF="und">stroke</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_4fd62b9d-d7aa-455a-b3fc-84354f80af3d">
+            <CVE_VALUE DESCRIPTION="hold" LANG_REF="und">hold</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_eb910630-8fe8-4088-9f65-b36b68800929">
+            <CVE_VALUE DESCRIPTION="partial retraction" LANG_REF="und">part.retraction</CVE_VALUE>
+        </CV_ENTRY_ML>
+    </CONTROLLED_VOCABULARY>
+</ANNOTATION_DOCUMENT>
